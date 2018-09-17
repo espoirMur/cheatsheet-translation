@@ -142,9 +142,9 @@
 
 <br>
 
-**25. LMS algorithm ― By noting α the learning rate, the update rule of the Least Mean Squares (LMS) algorithm for a training set of m data points, which is also known as the Widrow-Hoff learning rule, is as follows:**
+**25. LMS algorithm ― By noting α the learning rate, the update rule of the Least Mean Squares (LMS) algorithm for a ensemble d'apprentissage of m data points, which is also known as the Widrow-Hoff learning rule, is as follows:**
 
-&#10230; Algorithme LMS ― En notant α le learning rate, la règle de mise à jour d'algorithme des moindres carrés (LMS) pour un training set de m points, qui est aussi connu sous le nom de règle de Widrow-Hoff, est :
+&#10230; Algorithme LMS ― En notant α le learning rate, la règle de mise à jour d'algorithme des moindres carrés (LMS) pour un ensemble d'apprentissage de m points, qui est aussi connu sous le nom de règle de Widrow-Hoff, est :
 
 <br>
 
@@ -430,9 +430,9 @@
 
 <br>
 
-**73. k-nearest neighbors ― The k-nearest neighbors algorithm, commonly known as k-NN, is a non-parametric approach where the response of a data point is determined by the nature of its k neighbors from the training set. It can be used in both classification and regression settings.**
+**73. k-nearest neighbors ― The k-nearest neighbors algorithm, commonly known as k-NN, is a non-parametric approach where the response of a data point is determined by the nature of its k neighbors from the ensemble d'apprentissage. It can be used in both classification and regression settings.**
 
-&#10230; k-nearest neighbors ― L'algorithme des k-nearest neighbors, aussi connu sous le nom de k-NN, est une approche non-paramétrique où la réponse d'un point est déterminée par la nature de ses k voisins dans le training set. Il peut être utilisé dans des cadres de classification et de régression.
+&#10230; k-nearest neighbors ― L'algorithme des k-nearest neighbors, aussi connu sous le nom de k-NN, est une approche non-paramétrique où la réponse d'un point est déterminée par la nature de ses k voisins dans le ensemble d'apprentissage. Il peut être utilisé dans des cadres de classification et de régression.
 
 <br>
 
