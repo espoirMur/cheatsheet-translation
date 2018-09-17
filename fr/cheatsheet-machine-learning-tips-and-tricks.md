@@ -136,9 +136,9 @@
 
 <br>
 
-**24. [ensemble d'apprentissage, Validation set, Testing set]**
+**24. [Training set, Validation set, Testing set]**
 
-&#10230; [ensemble d'apprentissage, Validation set, Testing set]
+&#10230; [ensemble d'apprentissage, ensemble de validation, Testing set]
 
 <br>
 
@@ -160,13 +160,13 @@
 
 <br>
 
-**28. Once the model has been chosen, it is trained on the entire dataset and tested on the unseen ensemble d'évaluation. These are represented in the figure below:**
+**28. Once the model has been chosen, it is trained on the entire dataset and tested on the unseen test set. These are represented in the figure below:**
 
 &#10230; Une fois que le modèle a été choisi, il est trainé sur le dataset entier et testé sur ensemble d'évaluation jamais vu. Ces derniers sont représentés dans la figure ci-dessous :
 
 <br>
 
-**29. Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial ensemble d'apprentissage. The different types are summed up in the table below:**
+**29. Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial training set. The different types are summed up in the table below:**
 
 &#10230; Validation croisée ― La validation croisée, aussi notée CV, est une méthode qui est utilisée pour sélectionner un modèle qui ne s'appuie pas trop sur le ensemble d'apprentissage de départ. Les différents types rencontrés sont récapitulés dans le tableau ci-dessous :
 
